@@ -1,7 +1,7 @@
 # 💫 About Me:
-<br>Trabalho como desenvolvedor front-end com foco em ReactJS, TypeScript e NextJS.
+<br>Trabalho como desenvolvedor front-end com foco em ReactJS, TypeScript, NextJS, Angular e React-Native.
 Atualmente estou  estudado NextJS e teste unitários.
-Já desenvolvi projetos com Java,Php,Node, SQL, Firebase  e React-Native.
+Já desenvolvi projetos com Java,Php,Node, SQL, Firebase.
 
 
 ## 🌐 Socials:
